@@ -1,9 +1,23 @@
-# React + Vite
+# Instagram Login and Sign Up page
+## In this project I have created a instagram login and signup page UI with the help of React js. This project helped me to clarify react concept like props and conditional rendering
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Approach
+## Project setup 
+   ### Installed vite react using command npm create vite@latest
+   
+## Create Component folder
+   ### Inside component folder create two folders named as SigUp.jsx and SignIn.jsx
 
-Currently, two official plugins are available:
+## Conditional rendering
+  ### import both the component in App.jsx file and use useState hook for state managment and render the component on the basis of condition using conditionall rendering 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
+# Steps to run application locally
+ ## Install vite using command  npm create vite@latest
+ ## Give appropriate folder name
+ ## Select framework React.js (use arrow key)
+ ## select language Javascript (use arrow key)
+ ## Run the following command
+    ### cd folder_name
+    ### npm install
+    ### npm run dev
