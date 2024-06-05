@@ -1,0 +1,67 @@
+
+.container{
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    align-content: center;
+    align-items: center;
+    height: 500px;
+}
+.box{
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  padding: 25px;
+  height: 390px;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+  border-radius: 10px;
+  border: 1px solid rgb(137,136,115);
+  gap: 5px;  
+}
+
+*{
+    font-family: sans-serif;
+  }
+
+img{
+ margin-left: auto;
+ margin-right: auto;
+ width: 250px;
+ padding: 20px;
+}
+
+.box input , .box button{
+    padding: 8px;
+    margin: 5px;
+    width: 17rem;
+    font-size: 18px;
+    align-items: center;
+}
+
+input::placeholder{
+    color: gray;
+}
+
+button{
+    color: #fff;
+    background-color: rgb(74, 74, 242);
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.footer p{
+    color: rgb(101, 97, 97);
+}
+.footer span{
+    color: rgb(66, 66, 254);
+    text-decoration: none;
+    cursor: pointer;
+}
+.footer{
+    text-align: center;
+    font-size: 15px;
+}
