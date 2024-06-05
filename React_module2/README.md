@@ -3,7 +3,8 @@
 
 # Approach
 ## Project setup 
-   ### Installed vite react using command npm create vite@latest
+   ### Installed vite react using command 
+        npm create vite@latest
    
 ## Create Component folder
    ### Inside component folder create two folders named as SigUp.jsx and SignIn.jsx
@@ -18,6 +19,6 @@
  ## Select framework React.js (use arrow key)
  ## select language Javascript (use arrow key)
  ## Run the following command
-    ### cd folder_name
-    ### npm install
-    ### npm run dev
+     cd folder_name
+     npm install
+     npm run dev
