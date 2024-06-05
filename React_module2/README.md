@@ -14,11 +14,12 @@
 
 
 # Steps to run application locally
- ## Install vite using command  npm create vite@latest
- ## Give appropriate folder name
- ## Select framework React.js (use arrow key)
- ## select language Javascript (use arrow key)
- ## Run the following command
+ ###  Install vite using command 
+    npm create vite@latest
+ ###  Give appropriate folder name
+ ###  Select framework React.js (use arrow key)
+ ###  select language Javascript (use arrow key)
+ ###  Run the following command
      cd folder_name
      npm install
      npm run dev
